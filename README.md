@@ -42,20 +42,12 @@ If no `platforms` folder exists or no `android` folder in platforms exist, we ne
 ```
 npm run setup-android
 ```
-or 
-```
-cordova platform add android
-```
+
 #### IOS
 If no `platforms` folder exists or no `ios` folder in platforms exist, we need to add ios platform
 ```
 npm run setup-ios
 ```
-or
-```
-cordova platform add ios
-```
-
 
 ### Deploy
 
