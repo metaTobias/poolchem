@@ -6,11 +6,13 @@ import { AppComponent } from './app.component';
 import {DropdownModule} from "primeng/dropdown";
 import { CascadeSelectModule } from 'primeng/cascadeselect';
 import {FormsModule} from "@angular/forms";
+import {BrowserAnimationsModule} from "@angular/platform-browser/animations";
 @NgModule({
   declarations: [
     AppComponent
   ],
     imports: [
+        BrowserAnimationsModule,
         BrowserModule,
         AppRoutingModule,
         DropdownModule,
