@@ -1,6 +1,3 @@
-{{title}}
-<div *ngFor="let e of myarray">
-    {{e}}
-</div>
+<p-dropdown optionLabel="name"></p-dropdown>
 
-test 123
+<p-cascadeSelect  [optionGroupChildren]="['states', 'cities']" [style]="{ minWidth: '14rem' }" placeholder="Select a City"></p-cascadeSelect>
