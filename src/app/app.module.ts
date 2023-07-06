@@ -4,7 +4,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import {DropdownModule} from "primeng/dropdown";
-
+import { CascadeSelectModule } from 'primeng/cascadeselect';
 @NgModule({
   declarations: [
     AppComponent
@@ -12,7 +12,8 @@ import {DropdownModule} from "primeng/dropdown";
     imports: [
         BrowserModule,
         AppRoutingModule,
-        DropdownModule
+        DropdownModule,
+        CascadeSelectModule
     ],
   providers: [],
   bootstrap: [AppComponent]
