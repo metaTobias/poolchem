@@ -5,6 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import {DropdownModule} from "primeng/dropdown";
 import { CascadeSelectModule } from 'primeng/cascadeselect';
+import {FormsModule} from "@angular/forms";
 @NgModule({
   declarations: [
     AppComponent
@@ -13,7 +14,8 @@ import { CascadeSelectModule } from 'primeng/cascadeselect';
         BrowserModule,
         AppRoutingModule,
         DropdownModule,
-        CascadeSelectModule
+        CascadeSelectModule,
+        FormsModule
     ],
   providers: [],
   bootstrap: [AppComponent]
