@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {FileUploadEvent} from "primeng/fileupload";
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'poolchem';
+
+  onBasicUploadAuto($event: FileUploadEvent) {
+    alert("Basic Upload Auto")
+  }
+
+
+  onUpload($event: FileUploadEvent) {
+    alert("on Upload")
+  }
 }
