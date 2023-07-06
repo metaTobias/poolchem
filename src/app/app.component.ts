@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'poolchem my new site';
   myarray = ["pool", "spielzeug"]
+  selectedOption = 0
 }
