@@ -25,3 +25,60 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Cordova
+
+### Cordova Setup
+
+https://www.youtube.com/watch?v=2PAeSUGevY8
+
+## Cordova Commands
+
+### Setup Cordova
+
+#### Android
+If no `platforms` folder exists or no `android` folder in platforms exist, we need to add android platform
+
+```
+npm run setup-android
+```
+or 
+```
+cordova platform add android
+```
+#### IOS
+If no `platforms` folder exists or no `ios` folder in platforms exist, we need to add ios platform
+```
+npm run setup-ios
+```
+or
+```
+cordova platform add ios
+```
+
+
+### Deploy
+
+#### Android
+
+Builds Angular and runs the app
+```
+npm run deploy-android
+```
+
+Run Android
+```
+npm run run-android
+```
+
+#### IOS
+
+Builds Angular and runs the app
+```
+npm run deploy-ios
+```
+
+Run ios
+```
+npm run run-ios
+```
