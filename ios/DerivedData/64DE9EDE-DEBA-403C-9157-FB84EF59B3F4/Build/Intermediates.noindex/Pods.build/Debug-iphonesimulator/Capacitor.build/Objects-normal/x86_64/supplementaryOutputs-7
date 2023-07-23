@@ -1,0 +1,25 @@
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/TmpViewController.swift":
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/TmpViewController.d"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/TmpViewController.o"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/TmpViewController.dia"
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/TmpViewController.swiftdeps"
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/PluginConfig.swift":
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/PluginConfig.o"
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/PluginConfig.d"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/PluginConfig.dia"
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/PluginConfig.swiftdeps"
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/Router.swift":
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/Router.swiftdeps"
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/Router.d"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/Router.o"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/Router.dia"
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/PluginCallResult.swift":
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/PluginCallResult.d"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/PluginCallResult.o"
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/PluginCallResult.swiftdeps"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/PluginCallResult.dia"
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/NotificationRouter.swift":
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/NotificationRouter.swiftdeps"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/NotificationRouter.dia"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/NotificationRouter.o"
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/NotificationRouter.d"

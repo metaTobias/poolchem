@@ -1,0 +1,67 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "0ca3007d900a678c2b4d53418799ee3d34df47fa015b7e467e67e9235d8a1297"
+    }
+  ],
+  "containerPath" : "/Users/mac/appsdev/poolchem/ios/App/App.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Products",
+      "derivedDataPath" : "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4",
+      "indexDataStoreFolderPath" : "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,6",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,6",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "64DE9EDE-DEBA-403C-9157-FB84EF59B3F4",
+          "TARGET_DEVICE_MODEL" : "iPhone14,6",
+          "TARGET_DEVICE_OS_VERSION" : "16.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

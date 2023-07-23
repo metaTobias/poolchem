@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "4049924bf9b7c2552cf075f39ecc3ee8d3382f2d88b93064cfec0922f80d3458"
+build_start_time: [1690049202, 944633000]
+build_end_time: [1690049211, 362688000]
+inputs:
+  "/Users/mac/appsdev/poolchem/ios/App/App/AppDelegate.swift": [1689783063, 0]

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "b6af5436ec741b0675eb63656efeb1dc4817e654b6461e2b1efa6838df0edc38"
+build_start_time: [1690049199, 488954000]
+build_end_time: [1690049199, 618418000]
+inputs:
+  "/Users/mac/appsdev/poolchem/node_modules/@capacitor/haptics/ios/Plugin/Haptics.swift": !private [1690048903, 501202238]
+  "/Users/mac/appsdev/poolchem/node_modules/@capacitor/haptics/ios/Plugin/HapticsPlugin.swift": !private [1690048903, 501608146]

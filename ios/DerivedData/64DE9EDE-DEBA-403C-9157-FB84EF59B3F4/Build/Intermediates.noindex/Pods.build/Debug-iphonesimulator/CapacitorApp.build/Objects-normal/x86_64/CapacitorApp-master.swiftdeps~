@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "eeb0cebf4b05d7977afab72027e9afdc05005431b65106633acfb4353e2799dd"
+build_start_time: [1690049199, 604738000]
+build_end_time: [1690049199, 745187000]
+inputs:
+  "/Users/mac/appsdev/poolchem/node_modules/@capacitor/app/ios/Plugin/AppPlugin.swift": !private [1690048903, 494495596]

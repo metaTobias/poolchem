@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Poolchem",
+  "short_name": "Poolchem",
+  "version": "io.at.poolchem",
+  "description": "Poolchem App",
+  "author": "MeTa EDV",
+  "icons": [],
+  "start_url": "index.html"
+}

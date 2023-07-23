@@ -1,0 +1,30 @@
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgeDelegate.swift":
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeDelegate.d"
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeDelegate.swiftdeps"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeDelegate.o"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgeDelegate.dia"
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPApplicationDelegateProxy.swift":
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPApplicationDelegateProxy.d"
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPApplicationDelegateProxy.swiftdeps"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPApplicationDelegateProxy.o"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPApplicationDelegateProxy.dia"
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/CapacitorHttp.swift":
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CapacitorHttp.swiftdeps"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CapacitorHttp.o"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CapacitorHttp.dia"
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CapacitorHttp.d"
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridge.swift":
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridge.swiftdeps"
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridge.d"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridge.dia"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridge.o"
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/CAPBridgedPlugin+getMethod.swift":
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgedPlugin+getMethod.o"
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgedPlugin+getMethod.d"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgedPlugin+getMethod.dia"
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CAPBridgedPlugin+getMethod.swiftdeps"
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/CapacitorUrlRequest.swift":
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CapacitorUrlRequest.swiftdeps"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CapacitorUrlRequest.dia"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CapacitorUrlRequest.o"
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/CapacitorUrlRequest.d"

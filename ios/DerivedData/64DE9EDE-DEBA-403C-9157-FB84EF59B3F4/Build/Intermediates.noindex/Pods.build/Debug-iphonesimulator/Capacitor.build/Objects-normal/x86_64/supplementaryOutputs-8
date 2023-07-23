@@ -1,0 +1,25 @@
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/WebViewDelegationHandler.swift":
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WebViewDelegationHandler.d"
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WebViewDelegationHandler.swiftdeps"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WebViewDelegationHandler.o"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WebViewDelegationHandler.dia"
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/Plugins/WebView.swift":
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WebView.swiftdeps"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WebView.dia"
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WebView.d"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WebView.o"
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/UIColor.swift":
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/UIColor.d"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/UIColor.o"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/UIColor.dia"
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/UIColor.swiftdeps"
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/WebViewAssetHandler.swift":
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WebViewAssetHandler.swiftdeps"
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WebViewAssetHandler.d"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WebViewAssetHandler.o"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WebViewAssetHandler.dia"
+"/Users/mac/appsdev/poolchem/node_modules/@capacitor/ios/Capacitor/Capacitor/WKWebView+Capacitor.swift":
+  dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WKWebView+Capacitor-09394af636d614287d9687e170d0128e.d"
+  object: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WKWebView+Capacitor-09394af636d614287d9687e170d0128e.o"
+  swift-dependencies: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WKWebView+Capacitor-09394af636d614287d9687e170d0128e.swiftdeps"
+  diagnostics: "/Users/mac/appsdev/poolchem/ios/DerivedData/64DE9EDE-DEBA-403C-9157-FB84EF59B3F4/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/Capacitor.build/Objects-normal/x86_64/WKWebView+Capacitor-09394af636d614287d9687e170d0128e.dia"

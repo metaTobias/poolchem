@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "c6cbb1b06bbe90ea8216c65fce160b6057a8c494be66684802cf78df62025dfa"
+build_start_time: [1690049199, 438397000]
+build_end_time: [1690049202, 206864000]
+inputs:
+  "/Users/mac/appsdev/poolchem/node_modules/@capacitor/status-bar/ios/Plugin/StatusBarPlugin.swift": [1690048903, 494245781]

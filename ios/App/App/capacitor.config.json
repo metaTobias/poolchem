@@ -1,0 +1,8 @@
+{
+	"appId": "com.poolchem",
+	"appName": "poolchem",
+	"webDir": "www",
+	"server": {
+		"androidScheme": "https"
+	}
+}
